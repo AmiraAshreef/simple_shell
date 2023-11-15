@@ -1,0 +1,5 @@
+# This file lists all individuals having contributed content to the repository.
+# For how it is generated, see `hack/generate-authors.sh`.
+
+braaabdelmoaty3 <braaabdelmoaty3@gmail.com>
+Amira Ashreef <amira.m.ahmed113@gmail.com>
